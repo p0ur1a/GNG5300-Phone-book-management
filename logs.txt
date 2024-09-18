@@ -1,0 +1,385 @@
+2024-09-15 14:00:15,612 - Contact added: ben harvey, (343) 343-3434, , 
+2024-09-15 14:01:02,718 - Contact updated: ben harvey, (613) 613-6136, , 
+2024-09-15 14:03:37,910 - Contact added: James Jordan, (437) 437-4374, , 
+2024-09-15 14:14:01,648 - No contacts file found, starting with an empty list
+2024-09-15 14:14:20,525 - Contacts saved to file
+2024-09-15 14:14:20,525 - Contact added: james brown, (232) 232-2323, , 
+2024-09-15 14:39:34,165 - Contacts loaded from file
+2024-09-15 14:39:40,957 - Contacts loaded from file
+2024-09-15 14:40:23,405 - Contacts saved to file
+2024-09-15 14:40:23,406 - Contact added: emily black, (434) 434-4343, emily@gmail.com, 
+2024-09-15 14:40:38,932 - Contacts loaded from file
+2024-09-15 14:52:28,231 - Contacts saved to file
+2024-09-15 14:52:28,240 - Contact deleted: james brown, (232) 232-2323, , 
+2024-09-15 14:54:31,544 - Contacts saved to file
+2024-09-15 14:54:31,544 - Contact added: tom holland, (989) 989-9898, , 
+2024-09-15 14:54:48,194 - Contacts saved to file
+2024-09-15 14:54:48,195 - Contact deleted: tom holland, (989) 989-9898, , 
+2024-09-15 15:01:48,307 - Contacts loaded from file
+2024-09-15 15:02:36,005 - Contacts loaded from file
+2024-09-15 15:03:27,785 - Contacts loaded from file
+2024-09-15 15:04:23,359 - Contacts saved to file
+2024-09-15 15:04:23,360 - Contact added: james may, (646) 646-6464, jamesmay@gmail.com, 343 May Street
+2024-09-15 15:09:10,208 - Contacts loaded from file
+2024-09-15 15:10:15,908 - Contacts saved to file
+2024-09-15 15:10:15,908 - Contact updated: George May, (515) 515-5151, jamesmay@gmail.com, 343 May Street
+2024-09-15 15:11:20,301 - Contacts saved to file
+2024-09-15 15:11:20,301 - Contact deleted: George May, (515) 515-5151, jamesmay@gmail.com, 343 May Street
+2024-09-15 15:13:28,063 - Contacts saved to file
+2024-09-15 15:13:28,064 - Contact added: Fred Lemoux, (989) 989-9898, , 989 Fred PVT
+2024-09-15 15:14:14,989 - Contacts saved to file
+2024-09-15 15:14:14,989 - Contact updated: Fred Lemoux, (989) 989-9898, , 989 Fred PVT
+2024-09-16 07:59:38,925 - Contacts loaded from file
+2024-09-16 08:06:31,462 - Contacts loaded from file
+2024-09-16 09:31:26,203 - Contacts loaded from file
+2024-09-16 09:33:23,578 - Contacts loaded from file
+2024-09-16 09:42:54,370 - Contacts loaded from file
+2024-09-16 09:42:57,933 - Contacts loaded from file
+2024-09-16 09:45:18,572 - Contacts saved to file
+2024-09-16 09:46:33,561 - Contacts loaded from file
+2024-09-16 09:47:01,014 - Contacts saved to file
+2024-09-16 09:47:01,015 - Contact added: ben kingsley, (555) 555-5555, , 
+2024-09-16 09:47:51,511 - Contacts saved to file
+2024-09-16 09:49:34,258 - Contacts loaded from file
+2024-09-16 09:50:25,347 - Contacts saved to file
+2024-09-16 09:50:25,347 - Contact added: john BY, (444) 444-4444, john@gmail.com, 44 john street
+2024-09-16 09:51:11,063 - Contacts saved to file
+2024-09-16 10:16:30,991 - Contacts loaded from file
+2024-09-16 10:16:34,605 - Contacts loaded from file
+2024-09-16 10:18:35,152 - Contacts saved to file
+2024-09-16 10:18:35,153 - Contact added: Alex Zachary, (666) 666-6666, , 
+2024-09-16 10:21:15,854 - Contacts loaded from file
+2024-09-16 10:21:43,184 - Contacts loaded from file
+2024-09-16 12:36:09,864 - Contacts loaded from file
+2024-09-16 12:37:17,306 - Contacts loaded from file
+2024-09-16 12:37:46,155 - Contacts saved to file
+2024-09-16 12:40:49,960 - Contacts loaded from file
+2024-09-16 12:42:00,736 - Contacts loaded from file
+2024-09-16 13:27:29,284 - Contacts loaded from file
+2024-09-16 13:33:44,981 - Contacts loaded from file
+2024-09-16 13:34:37,595 - Contacts loaded from file
+2024-09-16 13:39:51,823 - Contacts loaded from file
+2024-09-16 13:40:21,432 - Contacts loaded from file
+2024-09-16 13:40:36,739 - Contacts loaded from file
+2024-09-16 13:44:21,418 - Contacts loaded from file
+2024-09-16 13:46:21,326 - Contacts loaded from file
+2024-09-16 13:52:05,514 - Contacts loaded from file
+2024-09-16 13:52:45,155 - Contacts loaded from file
+2024-09-16 13:53:38,196 - Contacts loaded from file
+2024-09-16 13:57:16,902 - Contacts loaded from file
+2024-09-16 13:57:22,005 - Contacts saved to file
+2024-09-16 13:57:22,005 - Contact added: John Doe, (123) 456-7890, john.doe@example.com, 123 Maple Street
+2024-09-16 13:57:22,006 - Contacts saved to file
+2024-09-16 13:57:22,006 - Contact added: Jane Smith, (234) 567-8901, jane.smith@example.com, 456 Oak Avenue
+2024-09-16 13:57:22,007 - Contacts saved to file
+2024-09-16 13:57:22,007 - Contact added: Michael Johnson, (345) 678-9012, , 789 Pine Lane
+2024-09-16 13:57:22,007 - Contacts saved to file
+2024-09-16 13:57:22,008 - Contact added: Emily Davis, (456) 789-0123, emily.davis@example.com, 
+2024-09-16 13:57:22,008 - Contacts saved to file
+2024-09-16 13:57:22,009 - Contact added: Chris Evans, (567) 890-1234, , 101 Cedar Road
+2024-09-16 13:59:56,990 - Contacts loaded from file
+2024-09-16 14:00:27,630 - Contacts saved to file
+2024-09-16 14:00:27,630 - Contact added: John Doe, (123) 456-7890, john.doe@example.com, 123 Maple Street
+2024-09-16 14:00:27,631 - Contacts saved to file
+2024-09-16 14:00:27,631 - Contact added: Jane Smith, (234) 567-8901, jane.smith@example.com, 456 Oak Avenue
+2024-09-16 14:00:27,632 - Contacts saved to file
+2024-09-16 14:00:27,632 - Contact added: Michael Johnson, (345) 678-9012, , 789 Pine Lane
+2024-09-16 14:00:27,632 - Contacts saved to file
+2024-09-16 14:00:27,633 - Contact added: Emily Davis, (456) 789-0123, emily.davis@example.com, 
+2024-09-16 14:00:27,633 - Contacts saved to file
+2024-09-16 14:00:27,633 - Contact added: Chris Evans, (567) 890-1234, , 101 Cedar Road
+2024-09-16 14:04:39,570 - Contacts loaded from file
+2024-09-16 14:05:17,995 - Contacts loaded from file
+2024-09-16 14:06:35,797 - Contacts loaded from file
+2024-09-16 14:57:19,268 - Contacts loaded from file
+2024-09-16 14:58:26,583 - Contacts loaded from file
+2024-09-16 14:58:31,270 - Contacts saved to file
+2024-09-16 14:58:31,270 - Contact added: John Doe, (123) 456-7890, john.doe@example.com, 123 Maple Street
+2024-09-16 14:58:31,271 - Contacts saved to file
+2024-09-16 14:58:31,271 - Contact added: Jane Smith, (234) 567-8901, jane.smith@example.com, 456 Oak Avenue
+2024-09-16 14:58:31,272 - Contacts saved to file
+2024-09-16 14:58:31,272 - Contact added: Michael Johnson, (345) 678-9012, , 789 Pine Lane
+2024-09-16 14:58:31,273 - Contacts saved to file
+2024-09-16 14:58:31,273 - Contact added: Emily Davis, (456) 789-0123, emily.davis@example.com, 
+2024-09-16 14:58:31,274 - Contacts saved to file
+2024-09-16 14:58:31,275 - Contact added: Chris Evans, (567) 890-1234, , 101 Cedar Road
+2024-09-16 14:59:23,680 - Contacts loaded from file
+2024-09-16 14:59:27,708 - Contacts saved to file
+2024-09-16 14:59:27,709 - Contact added: Jane Smith, (234) 567-8901, jane.smith@example.com, 456 Oak Avenue
+2024-09-16 15:04:12,343 - Contacts loaded from file
+2024-09-16 15:05:19,954 - Contacts saved to file
+2024-09-16 15:05:19,954 - Contact added: new Contact, (555) 444-4376, , 
+2024-09-16 15:05:55,148 - Contacts saved to file
+2024-09-16 15:31:29,347 - Contacts loaded from file
+2024-09-16 15:31:52,759 - Contacts loaded from file
+2024-09-16 15:33:26,014 - Contacts loaded from file
+2024-09-16 15:33:35,239 - Contacts loaded from file
+2024-09-16 15:34:15,506 - Contacts loaded from file
+2024-09-16 15:34:50,921 - Contacts loaded from file
+2024-09-16 15:36:36,158 - Contacts loaded from file
+2024-09-16 15:36:44,163 - Contacts loaded from file
+2024-09-16 15:40:26,379 - Contacts loaded from file
+2024-09-16 15:42:58,159 - Contacts loaded from file
+2024-09-16 23:24:31,728 - Contacts loaded from file
+2024-09-17 08:50:12,669 - Contacts loaded from file
+2024-09-17 08:52:11,320 - Contacts saved to file
+2024-09-17 08:52:44,814 - Contacts saved to file
+2024-09-17 08:53:02,745 - Contacts saved to file
+2024-09-17 08:54:31,302 - Contacts saved to file
+2024-09-17 08:54:31,302 - Contact added: newcontacttestFIRSTNAME newcontacttestLASTNAME, (222) 222-2222, , 22 testaddress PVT
+2024-09-17 08:54:54,526 - Contacts saved to file
+2024-09-17 08:58:21,958 - Contacts loaded from file
+2024-09-17 08:58:21,958 - Contacts saved to file
+2024-09-17 08:58:21,959 - Contact added: Pouria Bahri, (123) 456-7898, , 
+2024-09-17 08:58:21,965 - Contacts loaded from file
+2024-09-17 08:58:21,966 - Contacts saved to file
+2024-09-17 08:58:21,966 - Contact added: Jane Doe, (321) 654-0987, , 
+2024-09-17 08:58:21,967 - Contacts saved to file
+2024-09-17 08:58:21,969 - Contacts loaded from file
+2024-09-17 08:58:21,970 - Contacts saved to file
+2024-09-17 08:58:21,970 - Contact added: Albert Ping, (123) 555-1212, , 
+2024-09-17 08:58:57,296 - Contacts loaded from file
+2024-09-17 08:58:57,297 - Contacts loaded from file
+2024-09-17 08:58:57,298 - Contacts saved to file
+2024-09-17 08:58:57,298 - Contact added: Jane Doe, (321) 654-0987, , 
+2024-09-17 08:58:57,299 - Contacts saved to file
+2024-09-17 08:58:57,305 - Contacts loaded from file
+2024-09-17 14:29:00,647 - Contacts loaded from file
+2024-09-17 14:30:09,184 - Contacts loaded from file
+2024-09-17 14:30:31,337 - Contacts saved to file
+2024-09-17 14:30:31,337 - Contact added: John Doe, (123) 456-7890, john.doe@example.com, 123 Maple Street
+2024-09-17 14:30:31,338 - Contacts saved to file
+2024-09-17 14:30:31,338 - Contact added: Jane Smith, (234) 567-8901, jane.smith@example.com, 456 Oak Avenue
+2024-09-17 14:30:31,339 - Contacts saved to file
+2024-09-17 14:30:31,339 - Contact added: Michael Johnson, (345) 678-9012, , 789 Pine Lane
+2024-09-17 14:30:31,341 - Contacts saved to file
+2024-09-17 14:30:31,341 - Contact added: Emily Davis, (456) 789-0123, emily.davis@example.com, 
+2024-09-17 14:30:31,342 - Contacts saved to file
+2024-09-17 14:30:31,343 - Contact added: Chris Evans, (567) 890-1234, , 101 Cedar Road
+2024-09-17 14:31:20,674 - Contacts loaded from file
+2024-09-17 14:31:34,068 - Contacts saved to file
+2024-09-17 14:31:34,068 - Contact added: Chris Evans, (567) 890-1234, , 101 Cedar Road
+2024-09-17 14:37:49,505 - Contacts loaded from file
+2024-09-17 14:37:49,505 - Contacts saved to file
+2024-09-17 14:37:49,506 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 14:37:49,506 - Contacts saved to file
+2024-09-17 14:37:49,507 - Contact added: Jane Smith, (555) 555-5555, jane@example.com, 456 Oak St
+2024-09-17 14:37:49,507 - Contacts saved to file
+2024-09-17 14:37:49,508 - Contact added: Bob Brown, (987) 654-3210, bob@example.com, 789 Pine St
+2024-09-17 14:37:49,513 - Contacts loaded from file
+2024-09-17 14:37:49,515 - Contacts loaded from file
+2024-09-17 14:37:49,516 - Contacts saved to file
+2024-09-17 14:37:49,517 - Contact added:         Alice Wonderland, (222) 222-2222, alice@example.com, 100 Fantasy Lane
+2024-09-17 14:37:49,518 - Contacts saved to file
+2024-09-17 14:37:49,518 - Contact added:         Bob Builder, (333) 333-3333, bob@example.com, 200 Worksite Road
+2024-09-17 14:37:49,519 - Contacts saved to file
+2024-09-17 14:37:49,519 - Contact added:          None, None, None, None
+2024-09-17 14:37:49,525 - Contacts loaded from file
+2024-09-17 14:37:49,526 - Contacts saved to file
+2024-09-17 14:37:49,533 - Contacts loaded from file
+2024-09-17 14:37:49,533 - Contacts saved to file
+2024-09-17 14:37:49,534 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 14:37:49,541 - Contacts loaded from file
+2024-09-17 14:37:49,542 - Contacts loaded from file
+2024-09-17 14:37:49,545 - Contacts loaded from file
+2024-09-17 14:37:49,546 - Contacts saved to file
+2024-09-17 16:17:54,902 - Contacts loaded from file
+2024-09-17 16:17:54,904 - Contacts loaded from file
+2024-09-17 16:17:54,904 - Contacts loaded from file
+2024-09-17 16:17:54,905 - Contacts loaded from file
+2024-09-17 16:17:54,906 - Contacts saved to file
+2024-09-17 16:17:54,915 - Contacts loaded from file
+2024-09-17 16:17:54,915 - Contacts saved to file
+2024-09-17 16:17:54,915 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 16:17:54,922 - Contacts loaded from file
+2024-09-17 16:17:54,923 - Contacts loaded from file
+2024-09-17 16:17:54,925 - Contacts loaded from file
+2024-09-17 16:17:54,926 - Contacts saved to file
+2024-09-17 17:26:59,636 - Contacts loaded from file
+2024-09-17 17:26:59,637 - Contacts saved to file
+2024-09-17 17:26:59,637 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 17:26:59,638 - Contacts saved to file
+2024-09-17 17:26:59,638 - Contact added: Jane Smith, (555) 555-5555, jane@example.com, 456 Oak St
+2024-09-17 17:26:59,639 - Contacts saved to file
+2024-09-17 17:26:59,639 - Contact added: Bob Brown, (987) 654-3210, bob@example.com, 789 Pine St
+2024-09-17 17:26:59,646 - Contacts loaded from file
+2024-09-17 17:26:59,648 - Contacts loaded from file
+2024-09-17 17:26:59,649 - Contacts saved to file
+2024-09-17 17:26:59,649 - Contact added:         Alice Wonderland, (222) 222-2222, alice@example.com, 100 Fantasy Lane
+2024-09-17 17:26:59,649 - Contacts saved to file
+2024-09-17 17:26:59,650 - Contact added:         Bob Builder, (333) 333-3333, bob@example.com, 200 Worksite Road
+2024-09-17 17:26:59,650 - Contacts saved to file
+2024-09-17 17:26:59,650 - Contact added:          None, None, None, None
+2024-09-17 17:26:59,658 - Contacts loaded from file
+2024-09-17 17:26:59,659 - Contacts saved to file
+2024-09-17 17:26:59,665 - Contacts loaded from file
+2024-09-17 17:26:59,665 - Contacts saved to file
+2024-09-17 17:26:59,666 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 17:26:59,673 - Contacts loaded from file
+2024-09-17 17:26:59,675 - Contacts loaded from file
+2024-09-17 17:26:59,676 - Contacts loaded from file
+2024-09-17 17:26:59,677 - Contacts saved to file
+2024-09-17 17:57:29,107 - Contacts loaded from file
+2024-09-17 17:57:29,108 - Contacts saved to file
+2024-09-17 17:57:29,108 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 17:57:29,109 - Contacts saved to file
+2024-09-17 17:57:29,109 - Contact added: Jane Smith, (555) 555-5555, jane@example.com, 456 Oak St
+2024-09-17 17:57:29,110 - Contacts saved to file
+2024-09-17 17:57:29,110 - Contact added: Bob Brown, (987) 654-3210, bob@example.com, 789 Pine St
+2024-09-17 17:57:29,115 - Contacts loaded from file
+2024-09-17 17:57:29,117 - Contacts loaded from file
+2024-09-17 17:57:29,119 - Contacts saved to file
+2024-09-17 17:57:29,119 - Contact added:         Alice Wonderland, (222) 222-2222, alice@example.com, 100 Fantasy Lane
+2024-09-17 17:57:29,120 - Contacts saved to file
+2024-09-17 17:57:29,120 - Contact added:         Bob Builder, (333) 333-3333, bob@example.com, 200 Worksite Road
+2024-09-17 17:57:29,121 - Contacts saved to file
+2024-09-17 17:57:29,121 - Contact added:          None, None, None, None
+2024-09-17 17:57:29,127 - Contacts loaded from file
+2024-09-17 17:57:29,128 - Contacts saved to file
+2024-09-17 17:57:29,135 - Contacts loaded from file
+2024-09-17 17:57:29,136 - Contacts saved to file
+2024-09-17 17:57:29,136 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 17:57:29,143 - Contacts loaded from file
+2024-09-17 17:57:29,144 - Contacts loaded from file
+2024-09-17 17:57:29,145 - Contacts loaded from file
+2024-09-17 17:57:29,146 - Contacts saved to file
+2024-09-17 17:58:43,702 - Contacts loaded from file
+2024-09-17 17:58:43,702 - Contacts saved to file
+2024-09-17 17:58:43,702 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 17:58:43,703 - Contacts saved to file
+2024-09-17 17:58:43,703 - Contact added: Jane Smith, (555) 555-5555, jane@example.com, 456 Oak St
+2024-09-17 17:58:43,704 - Contacts saved to file
+2024-09-17 17:58:43,704 - Contact added: Bob Brown, (987) 654-3210, bob@example.com, 789 Pine St
+2024-09-17 17:58:43,709 - Contacts loaded from file
+2024-09-17 17:58:43,711 - Contacts loaded from file
+2024-09-17 17:58:43,712 - Contacts loaded from file
+2024-09-17 17:58:43,713 - Contacts saved to file
+2024-09-17 17:58:43,718 - Contacts loaded from file
+2024-09-17 17:58:43,720 - Contacts saved to file
+2024-09-17 17:58:43,720 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 17:58:43,727 - Contacts loaded from file
+2024-09-17 17:58:43,728 - Contacts loaded from file
+2024-09-17 17:58:43,729 - Contacts loaded from file
+2024-09-17 17:58:43,729 - Contacts saved to file
+2024-09-17 18:00:05,508 - Contacts loaded from file
+2024-09-17 18:00:05,508 - Contacts saved to file
+2024-09-17 18:00:05,509 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 18:00:05,509 - Contacts saved to file
+2024-09-17 18:00:05,509 - Contact added: Jane Smith, (555) 555-5555, jane@example.com, 456 Oak St
+2024-09-17 18:00:05,510 - Contacts saved to file
+2024-09-17 18:00:05,510 - Contact added: Bob Brown, (987) 654-3210, bob@example.com, 789 Pine St
+2024-09-17 18:00:05,518 - Contacts loaded from file
+2024-09-17 18:00:05,520 - Contacts loaded from file
+2024-09-17 18:00:05,521 - Contacts saved to file
+2024-09-17 18:00:05,521 - Contact added: Jane Smith, (234) 567-8901, jane.smith@example.com, 456 Oak Avenue
+2024-09-17 18:00:05,522 - Contacts saved to file
+2024-09-17 18:00:05,522 - Contact added: Michael Johnson, (345) 678-9012, , 789 Pine Lane
+2024-09-17 18:00:05,523 - Contacts saved to file
+2024-09-17 18:00:05,523 - Contact added: Emily Davis, (456) 789-0123, emily.davis@example.com, 
+2024-09-17 18:00:05,524 - Contacts saved to file
+2024-09-17 18:00:05,524 - Contact added: Chris Evans, (567) 890-1234, , 101 Cedar Road
+2024-09-17 18:00:05,524 - Batch import from sample_contacts.csv completed
+2024-09-17 18:00:05,532 - Contacts loaded from file
+2024-09-17 18:00:05,533 - Contacts saved to file
+2024-09-17 18:00:05,540 - Contacts loaded from file
+2024-09-17 18:00:05,540 - Contacts saved to file
+2024-09-17 18:00:05,540 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 18:00:05,549 - Contacts loaded from file
+2024-09-17 18:00:05,550 - Contacts loaded from file
+2024-09-17 18:00:05,551 - Contacts loaded from file
+2024-09-17 18:00:05,552 - Contacts saved to file
+2024-09-17 18:02:03,548 - Contacts loaded from file
+2024-09-17 18:02:03,548 - Contacts saved to file
+2024-09-17 18:02:03,548 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 18:02:03,549 - Contacts saved to file
+2024-09-17 18:02:03,550 - Contact added: Jane Smith, (555) 555-5555, jane@example.com, 456 Oak St
+2024-09-17 18:02:03,551 - Contacts saved to file
+2024-09-17 18:02:03,551 - Contact added: Bob Brown, (987) 654-3210, bob@example.com, 789 Pine St
+2024-09-17 18:02:03,557 - Contacts loaded from file
+2024-09-17 18:02:03,559 - Contacts loaded from file
+2024-09-17 18:02:03,559 - Contacts saved to file
+2024-09-17 18:02:03,565 - Contacts loaded from file
+2024-09-17 18:02:03,566 - Contacts saved to file
+2024-09-17 18:02:03,566 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 18:02:03,573 - Contacts loaded from file
+2024-09-17 18:02:03,574 - Contacts loaded from file
+2024-09-17 18:02:03,575 - Contacts loaded from file
+2024-09-17 18:02:03,576 - Contacts saved to file
+2024-09-17 18:03:23,675 - Contacts loaded from file
+2024-09-17 18:07:23,412 - Contacts loaded from file
+2024-09-17 18:07:23,413 - Contacts loaded from file
+2024-09-17 18:07:23,415 - Contacts loaded from file
+2024-09-17 18:07:23,415 - Contacts saved to file
+2024-09-17 18:07:23,421 - Contacts loaded from file
+2024-09-17 18:07:23,421 - Contacts saved to file
+2024-09-17 18:07:23,421 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 18:07:23,428 - Contacts loaded from file
+2024-09-17 18:07:23,429 - Contacts loaded from file
+2024-09-17 18:07:23,430 - Contacts loaded from file
+2024-09-17 18:07:23,431 - Contacts saved to file
+2024-09-17 18:09:29,194 - Contacts loaded from file
+2024-09-17 18:32:06,228 - Contacts loaded from file
+2024-09-17 18:32:06,228 - Contacts saved to file
+2024-09-17 18:32:06,229 - Contact added: Bob Brown, (987) 654-3210, bob@example.com, 789 Pine St
+2024-09-17 18:32:06,234 - Contacts loaded from file
+2024-09-17 18:32:06,235 - Contacts saved to file
+2024-09-17 18:32:06,235 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 18:32:06,236 - Contacts saved to file
+2024-09-17 18:32:06,236 - Contact added: Jane Smith, (555) 555-5555, jane@example.com, 456 Oak St
+2024-09-17 18:32:06,241 - Contacts loaded from file
+2024-09-17 18:32:06,242 - Contacts loaded from file
+2024-09-17 18:32:06,242 - Contacts loaded from file
+2024-09-17 18:32:06,243 - Contacts loaded from file
+2024-09-17 18:32:06,244 - Contacts loaded from file
+2024-09-17 18:40:52,850 - Contacts loaded from file
+2024-09-17 18:40:52,851 - Contacts loaded from file
+2024-09-17 18:40:52,851 - Contacts loaded from file
+2024-09-17 18:40:52,852 - Contacts loaded from file
+2024-09-17 18:40:52,852 - Contacts loaded from file
+2024-09-17 18:40:52,853 - Contacts loaded from file
+2024-09-17 18:40:52,853 - Contacts loaded from file
+2024-09-17 18:44:35,441 - Contacts loaded from file
+2024-09-17 18:44:35,442 - Contacts saved to file
+2024-09-17 18:44:35,442 - Contact added: Bob Brown, (987) 654-3210, bob@example.com, 789 Pine St
+2024-09-17 18:44:35,447 - Contacts loaded from file
+2024-09-17 18:44:35,448 - Contacts saved to file
+2024-09-17 18:44:35,448 - Contact added: Jane Smith, (555) 555-5555, jane@example.com, 456 Oak St
+2024-09-17 18:44:35,449 - Contacts saved to file
+2024-09-17 18:44:35,449 - Contact added: Bob Brown, (123) 456-7890, bob@example.com, 789 Pine St
+2024-09-17 18:44:35,455 - Contacts loaded from file
+2024-09-17 18:44:35,456 - Contacts loaded from file
+2024-09-17 18:44:35,457 - Contacts loaded from file
+2024-09-17 18:44:35,457 - Contacts loaded from file
+2024-09-17 18:44:35,458 - Contacts loaded from file
+2024-09-17 18:46:24,909 - Contacts loaded from file
+2024-09-17 18:46:24,910 - Contacts saved to file
+2024-09-17 18:46:24,910 - Contact added: Bob Brown, (987) 654-3210, bob@example.com, 789 Pine St
+2024-09-17 18:46:24,916 - Contacts loaded from file
+2024-09-17 18:46:24,916 - Contacts saved to file
+2024-09-17 18:46:24,916 - Contact added: Jane Smith, (555) 555-5555, jane@example.com, 456 Oak St
+2024-09-17 18:46:24,917 - Contacts saved to file
+2024-09-17 18:46:24,917 - Contact added: Bob Brown, (123) 456-7890, bob@example.com, 789 Pine St
+2024-09-17 18:46:24,924 - Contacts loaded from file
+2024-09-17 18:46:24,925 - Contacts loaded from file
+2024-09-17 18:46:24,925 - Contacts loaded from file
+2024-09-17 18:46:24,926 - Contacts loaded from file
+2024-09-17 18:46:24,926 - Contacts loaded from file
+2024-09-17 18:48:20,660 - Contacts loaded from file
+2024-09-17 19:15:35,707 - Contacts loaded from file
+2024-09-17 19:15:35,708 - Contacts saved to file
+2024-09-17 19:15:35,708 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 19:15:35,709 - Contacts saved to file
+2024-09-17 19:15:35,709 - Contact added: Jane Smith, (555) 555-5555, jane@example.com, 456 Oak St
+2024-09-17 19:15:35,710 - Contacts saved to file
+2024-09-17 19:15:35,710 - Contact added: Bob Brown, (987) 654-3210, bob@example.com, 789 Pine St
+2024-09-17 19:15:35,716 - Contacts loaded from file
+2024-09-17 19:15:35,717 - Contacts loaded from file
+2024-09-17 19:15:35,719 - Contacts saved to file
+2024-09-17 19:15:35,724 - Contacts loaded from file
+2024-09-17 19:15:35,725 - Contacts saved to file
+2024-09-17 19:15:35,725 - Contact added: John Doe, (123) 456-7890, john@example.com, 123 Maple St
+2024-09-17 19:15:35,732 - Contacts loaded from file
+2024-09-17 19:15:35,735 - Contacts loaded from file
+2024-09-17 19:15:35,736 - Contacts loaded from file
+2024-09-17 19:15:35,737 - Contacts saved to file
+2024-09-17 19:16:03,960 - Contacts loaded from file

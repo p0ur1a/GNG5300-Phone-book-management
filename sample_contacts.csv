@@ -1,0 +1,6 @@
+first_name,last_name,phone_number,email,address
+John,Doe,(123) 456-7890,john.doe@example.com,123 Maple Street
+Jane,Smith,(234) 567-8901,jane.smith@example.com,456 Oak Avenue
+Michael,Johnson,(345) 678-9012,,789 Pine Lane
+Emily,Davis,(456) 789-0123,emily.davis@example.com,
+Chris,Evans,(567) 890-1234,,101 Cedar Road
